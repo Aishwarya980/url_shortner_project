@@ -23,7 +23,7 @@ A clean  and simple URL shortener built with django and react ,paste  a long URL
   5.Login page
   <img width="1920" height="1080" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/1ab91a62-e89c-4e1c-87d3-7b09eec74b8d" />
   6.Logout page
-  <img width="1920" height="1080" alt="Screenshot (743)" src="https://github.com/user-attachments/assets/b783db62-5b0b-43d9-bfbb-75017a870839" />
+  <img width="1920" height="1080" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/bdc4a469-03ac-41cc-94d1-a72d359cd4bc" />
 
   
   
