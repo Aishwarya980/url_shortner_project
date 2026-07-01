@@ -10,8 +10,12 @@ A clean  and simple URL shortener built with django and react ,paste  a long URL
 -**Backend :** Django + Django REST Framework
 -**Database : ** SQLite
 -**Frontend : ** React - [url_shortner_project_frontend](https://github.com/Aishwarya980/url_shortner_project_frontend.git)
+  
+
   ##Screenshots
+
   1.Home Page
+  
   <img width="1920" height="1080" alt="Screenshot (735)" src="https://github.com/user-attachments/assets/065f6993-eb7f-43b8-b615-1c5b82d8e647" />
   2.Register Page
   <img width="1920" height="1080" alt="Screenshot (735)" src="https://github.com/user-attachments/assets/cedc8c30-3205-48e5-9668-ed9206694db4" />
